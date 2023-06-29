@@ -6,7 +6,11 @@
 
 ## Maintainer
 - [Changhyeon Yoon](https://github.com/ChanghyeonYoon)
+- [JiHee Han](https://github.com/g2hhh2ee)
 - [Jimin Yoo](https://github.com/yoo-jimin127)
+- [Eunhye Jeon](https://github.com/haileyport)
+- [Seunghyeong Lee](https://github.com/Samsam-lee)
+- [Chaejun Lee](https://github.com/chaejunlee)
 
 ## Contributor
 - [Yongmin Yoo](https://github.com/yymin1022)
@@ -16,13 +20,11 @@
 - [Dave](https://github.com/daveg7lee)
 - [AhhyunLee](https://github.com/LAH1203)
 - [milliwonkim](https://github.com/milliwonkim)
-- [이채준](https://github.com/chaejunlee)
 - [Jaeseok](https://github.com/Pridesd)
 - [sumi.byun](https://github.com/sumi-0011)
 - [Harry](https://github.com/haesoo-y)
 - [Han ByoungJu](https://github.com/OneMoreBottlee)
 - [Jeremy](https://github.com/Jeremy-Kr)
-- [Seunghyeong Lee](https://github.com/Samsam-lee)
 - [JeongMin](https://github.com/gyflsakfn)
 - [JiHee Han](https://github.com/g2hhh2ee)
 - [정서희](https://github.com/LireEruel)
