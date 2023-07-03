@@ -11,6 +11,7 @@
 - [Eunhye Jeon](https://github.com/haileyport)
 - [Seunghyeong Lee](https://github.com/Samsam-lee)
 - [Chaejun Lee](https://github.com/chaejunlee)
+- [Yuri Kwon](https://github.com/YuriKwon)
 
 ## Contributor(Thanks To)
 [Contributor List](https://github.com/Nextjs-kr/Nextjs.kr/graphs/contributors)
